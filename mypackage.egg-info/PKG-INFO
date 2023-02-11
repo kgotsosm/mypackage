@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Author: Kgotso Makhalimele
+License: MIT
+
+# mypackage
+
+This library was made as part of a tutorial to create a pyhton package.
